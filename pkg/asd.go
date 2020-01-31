@@ -1,3 +1,6 @@
-package "pkg"
+package pkg
 
-type Asd struct {}
+
+
+type Asd struct {
+}
